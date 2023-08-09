@@ -1,3 +1,3 @@
-# PreEntrega1-Cortes
+# PreEntrega3-Cortes
 
-Realice un simulador interactivo el cual consiste en calcular pagos en cuotas sobre un monto selecionado. Lo que hice fue usar while para pedir el monto a calcular siempre y cuando se cumpla una condicion, en este caso, un monto valido para dividir las cuotas. Luego pedi un numero mediante prompt tanto para el monto como para las cuotas y cuando esto se efectua obtenemos una salida por alerta y asi cada vez que recargamos la página.
+Realice este proyecto creando una pagina de rutinas para el gimnasio, la cual funciona mediante un archivo HTML, logra su funcionamiento con JavaScript y su estilo con CSS. Si hay una rutina guardada en el Storage, la carga al abrir la página y muestra la rutina previamente guardada. El código utiliza el DOM para interactuar con elementos HTML y el evento "DOMContentLoaded" asegura que el código se ejecute en el momento adecuado durante la carga de la página. 
